@@ -1,0 +1,11 @@
+.container{
+    background-color: antiquewhite;
+    padding: 50px;
+}
+.container h1{
+    color: aqua;
+    font-size: 30px;
+}
+.container img{
+    border-radius: 20px;
+}
